@@ -1,0 +1,25 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.scientists{
+    /* border-right: 1px solid rgb(255, 255, 255); */
+    margin-right: 5px;
+    margin-left: 63px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card{
+  position : sticky;
+ top : 0;
+  font-size: 30px;
+  color: white;
+  
+  width: 370px;
+  height: 300px;
+  border-bottom-left-radius: 25px;
+  box-shadow: 5px 4px 8px 5px rgba(94, 107, 202, 0.2);
+
+  
+
+}

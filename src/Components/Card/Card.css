@@ -1,0 +1,25 @@
+
+
+.sc-name{ 
+   
+    font-size: 18px;
+    font-weight: bolder;
+    color: brown;
+    padding-left: 12px;
+}
+.all-con{
+   padding: 20px;
+    
+
+}
+.added-person{
+    font-size: 25px;
+    color: rgb(47, 68, 7);
+    font-weight: 500;
+}
+.added-income{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(77, 4, 4);
+    padding-left: 29px;
+}

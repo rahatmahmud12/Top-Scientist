@@ -1,0 +1,37 @@
+.header{
+
+    text-align: center;
+   
+    border-bottom: 7px rgb(204, 198, 198) solid;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(233, 223, 205));
+    width: 85%;
+    margin-left: 100px;
+    border-radius: 15px;
+   
+}
+
+.top{
+    /* First line */
+    color: rgb(88, 122, 18);
+    font-size: 45px;
+    display: inline;
+}
+
+.established{
+    color: rgb(53, 15, 15);
+    font-size: 15px;
+     margin-top: -32px;
+}
+.long-text{
+    color: rgb(119, 25, 8);
+    font-size: 15px;
+}
+.scientists-only{
+    color: rgb(167, 167, 10);
+    font-size: 50px;
+}
+.donation{
+    font-size: 25px;
+    font-weight: 600;
+    color: chocolate;
+}
